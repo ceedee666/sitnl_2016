@@ -1,5 +1,5 @@
 <div class="jumbotron">
-  <h2><%= gettext "Hello #sitMuc 2016" %></h2>
+  <h2><%= gettext "Hello #sitNL 2016" %></h2>
   <p class="lead">This is an elixir Web application running on SAP HCP using a custom build pack!</p>
   <p>Furthermore we are also reading some data from the HCP IoT services.</p>
 </div>
